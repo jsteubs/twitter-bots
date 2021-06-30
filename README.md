@@ -1,2 +1,2 @@
-# twitter-bots
-A few simple files to test the Twitter API with Python
+# Exploring the Twitter API using Python
+This project features my attempt at creating automated tasks and apps on Twitter (@jtdesteuben)
